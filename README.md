@@ -14,9 +14,9 @@ differences and supports an interface to a GoTek floppy disk emulator.
 
 ![Adapter Pic1](https://vissernet.ca/picture_library/FloppyAdapter_V1.1.png)
 
-![Adapter Pic1](https://vissernet.ca/picture_library/FloppyAdapter_01.png)
+![Adapter Pic2](https://vissernet.ca/picture_library/FloppyAdapter_01.png)
 
-![Adapter Pic1](https://vissernet.ca/picture_library/FloppyAdapter_02.png)
+![Adapter Pic3](https://vissernet.ca/picture_library/FloppyAdapter_02.png)
 
 References
 
@@ -24,7 +24,7 @@ Electrical Details:
 
 * [vcfed](http://www.vcfed.org/forum/showthread.php?56999-Osborne-1-Gotek-Floppy-Emulator-SUCCESS!)
 
-3.5" to 5.25" Floppy Case Adapter:
+3D printed 3.5" to 5.25" Floppy Case Adapter:
 
 * [thingverse](https://www.thingiverse.com/thing:2217061)
 
