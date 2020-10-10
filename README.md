@@ -28,4 +28,9 @@ Electrical Details:
 
 * [thingverse](https://www.thingiverse.com/thing:2217061)
 
+Richard Loxley has done a lot of good work the Osborne 1.  His site had detailed information on
+how to get floppy disk images working on the GoTek.
+
+* [RichardLoxley](https://www.richardloxley.com/2018/03/30/retro-challenge-2018-04/)
+
 
