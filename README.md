@@ -28,7 +28,7 @@ Electrical Details:
 
 * [thingverse](https://www.thingiverse.com/thing:2217061)
 
-Richard Loxley has done a lot of good work on the Osborne 1.  His site is a *great* resource of information on
+Richard Loxley has done a lot of good work on the Osborne 1.  His site is a *great* resource for
 how to get CP/M-formatted floppy disk images working on the GoTek.
 
 * [Richard Loxley](https://www.richardloxley.com/2018/03/30/retro-challenge-2018-04/)
