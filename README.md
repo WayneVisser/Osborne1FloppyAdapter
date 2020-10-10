@@ -26,6 +26,6 @@ Electrical Details:
 
 3.5" to 5.25" Floppy Case Adapter:
 
-* [thingverse](http://www.vcfed.org/forum/showthread.php?56999-Osborne-1-Gotek-Floppy-Emulator-SUCCESS!)
+* [thingverse](https://www.thingiverse.com/thing:2217061)
 
 
