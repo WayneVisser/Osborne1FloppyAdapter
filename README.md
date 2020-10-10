@@ -18,7 +18,7 @@ differences and supports an interface to a GoTek floppy disk emulator.
 
 ![Adapter Pic3](https://vissernet.ca/picture_library/FloppyAdapter_02.png)
 
-References
+**References**
 
 Electrical Details:
 
