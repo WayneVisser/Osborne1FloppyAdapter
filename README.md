@@ -1,14 +1,16 @@
 Floppy Adapter for the Osborne 1
 --------------------------------
 
-1. The Osborne 1 uses a non-standard Shugart floppy interface.  This KiCAD project accounts for those 
-differences and supports an interface to a GoTek floppy disk emulator.
+1. The Osborne 1 uses a non-standard Shugart floppy interface where +12V and +5V for the drive are
+fed through the floppy cable.  This KiCAD project accounts for that and creates a nice tidy 
+interface to a GoTek floppy disk emulator.  There is no need to cut traces as is the case when using a 
+generic floppy adapter.
 
-2. +5V power for the GoTek is taken directly from the floppy cable.
+2. +5V power for the GoTek is taken from the floppy cable.
 
-3. Jumper only S1 on GoTek.
+3. Jumper only S1 on the GoTek.
 
-4. GoTek part number is:  SFR1M44-U100K
+4. GoTek part number is: SFR1M44-U100K
 
 5. GoTek connector is a Sullins PPPC172LJBN-RC
 
