@@ -14,6 +14,8 @@ generic floppy adapter.
 
 5. GoTek connector is a Sullins PPPC172LJBN-RC
 
+6. Program the GoTek with FlashFloppy firmware:  https://github.com/keirf/FlashFloppy
+
 ![Adapter Pic1](https://vissernet.ca/picture_library/FloppyAdapter_V1.1.png)
 
 ![Adapter Pic2](https://vissernet.ca/picture_library/FloppyAdapter_01.png)
