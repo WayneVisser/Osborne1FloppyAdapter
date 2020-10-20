@@ -12,7 +12,7 @@ generic floppy adapter.
 
 4. GoTek part number is: SFR1M44-U100K
 
-5. GoTek connector is a Sullins PPPC172LJBN-RC
+5. Connector on adapter to mate with GoTek is a Sullins PPPC172LJBN-RC
 
 6. Program the GoTek with FlashFloppy firmware:  https://github.com/keirf/FlashFloppy
 
