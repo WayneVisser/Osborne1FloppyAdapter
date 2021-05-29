@@ -37,6 +37,6 @@ how to get CP/M-formatted floppy disk images working on the GoTek.
 
 * [Richard Loxley](https://www.richardloxley.com/2018/03/30/retro-challenge-2018-04/)
 
-Just want the board?
+Just want the board?  Some people report that OSHPark may or may not cut the edge connector slot.  So be prepared to dremmel out the slot yourself if they don't!
 
 * [OSHPark](https://oshpark.com/shared_projects/k4YXJYxn)
